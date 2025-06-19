@@ -27,9 +27,9 @@ The work presents methodological developments in the validation of accessibility
 
 - **Ishihara Color Vision Test** – Detects red-green color deficiencies using pseudoisochromatic plates.
 
--Test accuracy by validation condition
--Participant classification (e.g., likely colorblind, good/bad audio device)
--Task performance score (visual and auditory cases)
--Subjective difficulty and environmental factors
+- Test accuracy by validation condition
+- Participant classification (e.g., likely colorblind, good/bad audio device)
+- Task performance score (visual and auditory cases)
+- Subjective difficulty and environmental factors
 
 ---
